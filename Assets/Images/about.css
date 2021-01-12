@@ -1,0 +1,13 @@
+h1 {
+    background: lightgreen;
+    color: green;
+}
+
+.container-fluid {
+    background: purple;
+    padding: 10px;
+}
+
+body {
+    background: orchid;
+}
