@@ -9,11 +9,7 @@ h1 {
 }
 
 body {
-    background: orchid;
-}
-
-.container {
-    background: lightblue;
+    background-color: orchid;
 }
 
 form {

@@ -8,6 +8,11 @@ h1 {
     padding: 10px;
 }
 
+.container {
+    padding: 200px;
+    background: lightblue;
+}
+
 body {
     background: orchid;
 }
