@@ -9,12 +9,8 @@ h1 {
 }
 
 .container {
-    margin-top: 100px;
+    padding: 100px;
     background-color: lightblue;
-}
-
-body {
-    background-color: lightsalmon;
 }
 
 .figure-img {
